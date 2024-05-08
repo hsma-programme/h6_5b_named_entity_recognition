@@ -1,0 +1,20 @@
+# Set up list of named entity labels (this is based off the SpaCy default list)
+list_of_ner_types = ["PERSON",
+                     "NORP",
+                     "FAC",
+                     "ORG",
+                     "GPE",
+                     "LOC",
+                     "PRODUCT",
+                     "EVENT",
+                     "WORK OF ART",
+                     "LAW",
+                     "LANGUAGE",
+                     "DATE",
+                     "TIME",
+                     "PERCENT",
+                     "MONEY",
+                     "QUANTITY",
+                     "ORDINAL",
+                     "CARDINAL"]
+

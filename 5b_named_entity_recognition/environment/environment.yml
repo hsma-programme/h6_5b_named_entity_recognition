@@ -1,0 +1,10 @@
+name: nlp_ner
+channels:
+  - defaults
+dependencies:
+  - python=3.11.4
+  - ipykernel
+  - pip:
+    - spacy==3.7.4
+    - pandas==2.2.2
+prefix: C:\Users\dan\anaconda3\envs\nlp_ner
