@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.11.4
   - ipykernel
+  - pip
   - pip:
     - spacy==3.7.4
     - pandas==2.2.2
